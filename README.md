@@ -52,7 +52,7 @@ Spanish-MRC
  * processor: provides read and basic pre-processing procedures for data sets.
  * metrics: defined the evaluation function of the model.
  * outputs: used to store the output files.
- * run.ipynb: Modify the dataset and model paths and run to get the corresponding experimental results.
+ * run.ipynb: modify the dataset and model paths and run to get the corresponding experimental results.
  
 # Experimental Environment
 * Ubuntu 18.04
