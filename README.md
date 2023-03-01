@@ -50,7 +50,7 @@ Spanish-MRC
  * Spanish-Query: provide three kinds of Spanish queries.
  * models: provide the model required for the experiment.
  * processor: provides read and basic pre-processing procedures for data sets.
- * metrics: defined The evaluation function of the model.
+ * metrics: defined the evaluation function of the model.
  * outputs: used to store the output files.
  * run.ipynb: Modify the dataset and model paths and run to get the corresponding experimental results.
  
